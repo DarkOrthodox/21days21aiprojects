@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Keep this file
+!.gitignore
+
+# Allow images in the repo root that start with 'Screenshot'
+!/Screenshot*
